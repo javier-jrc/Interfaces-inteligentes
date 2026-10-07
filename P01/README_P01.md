@@ -20,7 +20,7 @@ La clase de la Esfera contiene
 ## GIFPO1II.gif
 Gif con el funcionamiento del cambio de color del cubo y consola
 
-# Entreja de la practia 1 5-13
+# Entreja de la practica 1 5-13
 - Se ha creado ScriptCubo2.cs
 - Se ha creado ScriptEsfera2.cs
 - Se ha creado ScriptDesplazamiento.cs
